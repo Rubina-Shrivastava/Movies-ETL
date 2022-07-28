@@ -1,0 +1,1 @@
+db_password = 'om1234'
